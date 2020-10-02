@@ -1,0 +1,60 @@
+#pirmas {
+  background: #2ec1ac;
+  width: 200px;
+  height: 200px;
+  margin: 5px;
+}
+
+#antras {
+  background: #3e978b;
+  width: 200px;
+  height: 200px;
+  margin: 5px;
+}
+
+#trecias {
+  background: #d2e603;
+  width: 200px;
+  height: 200px;
+  margin: 5px;
+}
+
+#ketvirtas {
+  background: #eff48e;
+  width: 200px;
+  height: 200px;
+  margin: 5px;
+}
+
+article {
+  display: inline-block;
+}
+
+section{
+  height: 800px;
+  background-color: #a6f6f1;
+  padding: 30px;
+}
+
+a{
+  text-decoration: none;
+  background: #81b214;
+  border-style: solid;
+  padding: 10px;
+}
+
+#vienas {
+  float: left;
+}
+
+#du {
+  float: initial;
+}
+
+#trys {
+  float: right;
+}
+
+#keturi {
+  float: inherit;
+}
